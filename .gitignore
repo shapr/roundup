@@ -1,5 +1,12 @@
+*.lock
+
+# nix
+result
+result-*
+
+# haskell
 dist
-dist-*
+dist-newstyle
 cabal-dev
 *.o
 *.hi
